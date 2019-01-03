@@ -1,0 +1,1 @@
+taking sensor datas and send them to thinkSpeak to show graph chart. 
